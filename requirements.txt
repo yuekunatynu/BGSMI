@@ -1,10 +1,10 @@
-torch
-torchvision
-torch-geometric
 numpy
 scipy
 pandas
+openpyxl
 sklearn
+torch
+torchvision
+torch-geometric
 torch_sparse
 torch_scatter
-openpyxl
