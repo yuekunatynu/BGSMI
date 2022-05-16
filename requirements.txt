@@ -1,0 +1,7 @@
+torch
+torchvision
+torch-geometric
+numpy
+scipy
+pandas
+sklearn
