@@ -7,7 +7,6 @@ among features could be used to improve the few-shot learning algorithms. Furthe
 ## Usage
 ```python Train.py```
 ## Cite
-Please cite our paper if you make advantage of GMI in your research:
 
 ```
 @inproceedings{
